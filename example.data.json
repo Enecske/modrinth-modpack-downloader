@@ -1,0 +1,9 @@
+{
+    "targetVersion": "1.21",
+    "slugs": [
+        "fabric-api",
+        "malilib",
+        "sodium",
+        "lithium"
+    ]
+}
